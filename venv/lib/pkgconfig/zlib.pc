@@ -1,0 +1,13 @@
+prefix=/Users/nikhildeka/Desktop/mlprojects/venv
+exec_prefix=/Users/nikhildeka/Desktop/mlprojects/venv
+libdir=/Users/nikhildeka/Desktop/mlprojects/venv/lib
+sharedlibdir=/Users/nikhildeka/Desktop/mlprojects/venv/lib
+includedir=/Users/nikhildeka/Desktop/mlprojects/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
