@@ -5,4 +5,4 @@ scikit-learn
 xgboost
 warnings
 dill
--e .
+flask
