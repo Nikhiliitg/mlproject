@@ -3,6 +3,7 @@ numpy
 seaborn
 scikit-learn
 xgboost
-warnings
+
 dill
 flask
+mlflow==2.14.3
